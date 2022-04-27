@@ -1,0 +1,41 @@
+.partnerPhoto {
+    width: 200px;
+    margin-top: 24px;
+    border-radius: 200px;
+}
+
+.partnerFio {
+    font-weight: bold;
+}
+
+.donateLink {
+    width: 200px;
+    text-align: center;
+    background-color: #5B40CD;
+    font-weight: bolder;
+    padding: 12px 0px;
+    border-radius: 42px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:focus {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.descriptionWrapper {
+    margin-top: 24px;
+    padding: 0px 16px;
+    align-self: flex-start;
+
+    text-align: justify;
+}

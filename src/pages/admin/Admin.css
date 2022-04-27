@@ -1,0 +1,34 @@
+.adminBody {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.listWithAdd {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 12px;
+}
+
+.partnerItem {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 12px;
+    margin-bottom: 12px;
+}
+
+.partnerItemPhoto {
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    margin-right: 24px;
+
+    background-color: gray;
+}
